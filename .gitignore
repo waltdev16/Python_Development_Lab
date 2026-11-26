@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+playlist.txt
+tareas.txt
+asistencia.txt
+temperaturas.txt
+.DS_Store
+Thumbs.db
